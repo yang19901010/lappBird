@@ -8,6 +8,6 @@ export const Resources = [
     ['birds','images/birds.png'],
     ['land','images/land.png'],
     ['pieDown','images/pie_down.png'],
-    ['peiUp','images/pie_up.png'],
+    ['pieUp','images/pie_up.png'],
     ['startButton','images/start_button.png']
 ]
